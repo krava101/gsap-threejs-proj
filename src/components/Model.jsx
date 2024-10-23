@@ -52,7 +52,7 @@ function Model() {
   }, []);
 
   return (
-    <section className="common-padding">
+    <section className="sm:py-32 py-20 sm:px-10 px-8 overflow-hidden">
       <div className="screen-max-width">
         <h1 id="heading" className="section-heading">
           Take a closer look.
